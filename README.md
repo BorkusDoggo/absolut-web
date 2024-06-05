@@ -1,2 +1,2 @@
-# Borkus Web
+# Absolut Web
 A static site.
